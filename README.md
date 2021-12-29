@@ -1,23 +1,23 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Arindam!
   </br>
 
-<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Arindam Goswami" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+### Hi there 👋
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 </br></br></br>
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Competetive Programming and Web devlopment**
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently pursuing **Engineering in Information Technology at B.P. Poddar Institute of Management and Technology.**
+- 🔭 I’m currently more into the **Competetive Programming and Full Stack Web devlopment.**
 - 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- 👯 I’m looking for a **Software Development Internship.** 
 - 💬 Ask me about **Technology, Philosophy, Spirituality, Psychology, Neuroscience, History, Nature.**
 - ⚡ Quote: **Computer Science Is Not About Computers, Any More Than Astronomy Is About Telescopes.**
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arindam-goswami-649413203/) [Gmail](mailto:arindamgoswami2209@gmail.com)
 
-# *I am willing to collaborate as a team player building better code.*
-
-### Hit this over the terminal or console, to know more about me.
-```
-npx Arindam
-```
 
 ### I know more about- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
