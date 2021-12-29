@@ -42,7 +42,7 @@ I'm a computer science student who is passionate about writing code, solving pro
   <p align="center">    
     <a href="https://www.linkedin.com/in/arindam-goswami-649413203/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="https://www.instagram.com/arindam__goswami/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
-    <a href="https://codechef.com/arindam_2209/" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>
+    <a href="https://www.codechef.com/users/arindam_2209" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>
     <a href="mailto:arindamgoswami2209@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
 
