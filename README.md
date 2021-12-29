@@ -39,7 +39,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <a href="https://github.com/Arindam2209">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arindam2209&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam2209&theme=buefy&layout=compact" />
 </a>
 
 <br/>
