@@ -33,13 +33,13 @@ I'm a computer science student who is passionate about writing code, solving pro
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
+</br></br>
 
 <a href="https://github.com/Arindam2209">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arindam2209&theme=buefy&show_icons=true" />
 </a>
 
-<br/>
+<br/></br></br></br></br>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
