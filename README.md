@@ -17,7 +17,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
 ## 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/arindam-goswami-649413203/) [Gmail](mailto:arindamgoswami2209@gmail.com)
+
+[Linkedin](https://www.linkedin.com/in/arindam-goswami-649413203/) <a href="https://www.linkedin.com/in/arindam-goswami-649413203/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+
+[Gmail](mailto:arindamgoswami2209@gmail.com)<a href="mailto:arindamgoswami2209@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
 
 
 <br />
