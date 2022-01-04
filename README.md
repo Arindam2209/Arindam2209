@@ -18,9 +18,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ## 📫 How to reach me: 
 
-[Linkedin](https://www.linkedin.com/in/arindam-goswami-649413203/) <a href="https://www.linkedin.com/in/arindam-goswami-649413203/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-
-[Gmail](mailto:arindamgoswami2209@gmail.com)<a href="mailto:arindamgoswami2209@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+<a href="https://www.linkedin.com/in/arindam-goswami-649413203/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>         <a href="mailto:arindamgoswami2209@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
 
 
 <br />
@@ -28,6 +26,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arindam2209&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Arindam's github stats"/>
+  
+  <br />
+  <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arindam2209&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Arindam's github stats"/>
 </p>
 
