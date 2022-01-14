@@ -1,6 +1,7 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Arindam!
   </br>
 ### Hi there 👋
+
 <img width="35%" align="right" alt="Github" src="https://insider.knplabs.com/wp-content/uploads/2015/09/CNFLc3IWEAAJgws-1.gif" />
 </br>
 I'm a Information Technology student who is passionate about writing code, solving problems, automating stuff, and building software.
