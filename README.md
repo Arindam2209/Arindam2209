@@ -38,7 +38,6 @@ I'm a Information Technology student who is passionate about writing code, solvi
 - 🔭 Currently learning Full Stack Development
 - 🌱 Interested in Machine Learning & Data Science
 - ⚡ An Open Source Enthusiast
-
 <br />
 
 ## Languages & Tools :
