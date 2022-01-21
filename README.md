@@ -30,7 +30,6 @@ I'm a Information Technology student who is passionate about writing code, solvi
 </p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Arindam2209&theme=github)
-
 <br />
 
 ## I'm
