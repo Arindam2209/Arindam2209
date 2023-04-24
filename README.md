@@ -3,8 +3,6 @@
 I'm a Information Technology student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently pursuing **Engineering in Information Technology at B.P. Poddar Institute of Management and Technology.**
-- 🔭 I’m currently more into the **Competetive Programming and Full Stack Web devlopment.**
-- 🌱 I’m currently learning **Open Source Contribution.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 👯 I’m looking for a **Software Development Internship.** 
 - 💬 Ask me about **Technology, Philosophy, Spirituality, Psychology, Neuroscience, History, Nature.**
